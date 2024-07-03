@@ -1,4 +1,19 @@
 {
-    "items": [
-    ]
+  "person": {
+    "name": {
+      "en": "John Doe",
+      "vi": "Nguyễn Văn A"
+    },
+    "age": 30,
+    "address": {
+      "en": "123 Main St, New York, NY",
+      "vi": "123 Đường Chính, New York, NY"
+    },
+    "language": {
+      "primary": "en",
+      "secondary": "vi"
+    },
+    "email": "johndoe@example.com",
+    "phone": "+1-234-567-890"
   }
+}
