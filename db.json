@@ -1,19 +1,86 @@
 {
-  "person": {
-    "name": {
-      "en": "John Doe",
-      "vi": "Nguyễn Văn A"
+  "items": [
+    {
+      "0": {
+        "id": "10bfa018-c88d-4f1b-b66c-5dbcf414da78",
+        "en": {
+          "name": "Ignition System ",
+          "content": "The ignition system is a crucial component in an internal combustion engine, responsible for igniting the air-fuel mixture to start the engine and keep it running. There are several types of ignition systems, but they all serve the same basic purpose. Below is an overview of the main components and functions of a typical ignition system:",
+          "mainComponents": "1.\tBattery: Provides the electrical power needed to start the engine.\n2.\tIgnition Coil: Converts the low-voltage power from the battery to high-voltage power.\n3.\tDistributor: Distributes the high-voltage power to the spark plugs in the correct firing order.\n4.\tSpark Plugs: Ignite the air-fuel mixture in the engine's cylinders.\n5.\tIgnition Switch: Allows the driver to turn the ignition system on and off.\n6.\tControl Module: Manages the timing and operation of the ignition system.\n",
+          "functions": "1.\tVoltage Transformation: The ignition coil transforms the low voltage from the battery to the high voltage required to create a spark.\n2.\tSpark Timing: The control module or distributor ensures that the spark occurs at the right time for each cylinder.\n3.\tSpark Distribution: The distributor or control module sends the high-voltage spark to the correct spark plug.\n4.\tIgnition: The spark plugs ignite the air-fuel mixture, causing combustion and powering the engine.\n",
+          "images": [
+            "https://firebasestorage.googleapis.com/v0/b/automotive-fe630.appspot.com/o/images%2Ff136ddfb-deb1-4f6e-9792-d2588048c0b9_Picture1.png?alt=media&token=b07dc35b-feda-4174-98c8-256b81acc859",
+            "https://firebasestorage.googleapis.com/v0/b/automotive-fe630.appspot.com/o/images%2F099e2ed2-5a4d-4f7f-ac89-81c21a7ad112_Picture2.png?alt=media&token=71c5cbf4-8410-4fad-9f97-c158bac232d7"
+          ]
+        },
+        "vi": {
+          "name": "HỆ THỐNG ĐÁNH LỬA",
+          "content": "Hệ thống đánh lửa là một thành phần quan trọng trong động cơ đốt trong, chịu trách nhiệm đốt cháy hỗn hợp không khí-nhiên liệu để khởi động động cơ và duy trì hoạt động của nó. Có nhiều loại hệ thống đánh lửa, nhưng tất cả đều phục vụ mục đích cơ bản giống nhau. Dưới đây là tổng quan về các thành phần chính và chức năng của một hệ thống đánh lửa điển hình:",
+          "mainComponents": "1.\tẮc Quy: Cung cấp năng lượng điện cần thiết để khởi động động cơ.\n2.\tCuộn Đánh Lửa: Chuyển đổi nguồn điện áp thấp từ ắc quy thành điện áp cao.\n3.\tBộ Phân Phối Điện: Phân phối điện áp cao đến các bugi theo thứ tự đánh lửa chính xác.\n4.\tBugi: Đốt cháy hỗn hợp không khí-nhiên liệu trong các xi lanh của động cơ.\n5.\tCông Tắc Đánh Lửa: Cho phép người lái bật và tắt hệ thống đánh lửa.\n6.\tBộ Điều Khiển: Quản lý thời điểm và hoạt động của hệ thống đánh lửa.",
+          "functions": "1.\tBiến Đổi Điện Áp: Cuộn đánh lửa biến đổi điện áp thấp từ ắc quy thành điện áp cao cần thiết để tạo ra tia lửa.\n2.\tĐiều Chỉnh Thời Gian Đánh Lửa: Bộ điều khiển hoặc bộ phân phối đảm bảo rằng tia lửa xảy ra đúng thời điểm cho mỗi xi lanh.\n3.\tPhân Phối Tia Lửa: Bộ phân phối hoặc bộ điều khiển gửi tia lửa điện áp cao đến bugi đúng.\n4.\tĐánh Lửa: Các bugi đốt cháy hỗn hợp không khí-nhiên liệu, gây ra sự cháy và tạo năng lượng cho động cơ.",
+          "images": [
+            "https://firebasestorage.googleapis.com/v0/b/automotive-fe630.appspot.com/o/images%2Ff136ddfb-deb1-4f6e-9792-d2588048c0b9_Picture1.png?alt=media&token=b07dc35b-feda-4174-98c8-256b81acc859",
+            "https://firebasestorage.googleapis.com/v0/b/automotive-fe630.appspot.com/o/images%2F099e2ed2-5a4d-4f7f-ac89-81c21a7ad112_Picture2.png?alt=media&token=71c5cbf4-8410-4fad-9f97-c158bac232d7"
+          ]
+        }
+      },
+      "id": "80e5"
     },
-    "age": 30,
-    "address": {
-      "en": "123 Main St, New York, NY",
-      "vi": "123 Đường Chính, New York, NY"
-    },
-    "language": {
-      "primary": "en",
-      "secondary": "vi"
-    },
-    "email": "johndoe@example.com",
-    "phone": "+1-234-567-890"
-  }
+    [
+    {
+      "0": {
+        "id": "10bfa018-c88d-4f1b-b66c-5dbcf414da78",
+        "en": {
+          "name": "Ignition System ",
+          "content": "The ignition system is a crucial component in an internal combustion engine, responsible for igniting the air-fuel mixture to start the engine and keep it running. There are several types of ignition systems, but they all serve the same basic purpose. Below is an overview of the main components and functions of a typical ignition system:",
+          "mainComponents": "1.\tBattery: Provides the electrical power needed to start the engine.\n2.\tIgnition Coil: Converts the low-voltage power from the battery to high-voltage power.\n3.\tDistributor: Distributes the high-voltage power to the spark plugs in the correct firing order.\n4.\tSpark Plugs: Ignite the air-fuel mixture in the engine's cylinders.\n5.\tIgnition Switch: Allows the driver to turn the ignition system on and off.\n6.\tControl Module: Manages the timing and operation of the ignition system.\n",
+          "functions": "1.\tVoltage Transformation: The ignition coil transforms the low voltage from the battery to the high voltage required to create a spark.\n2.\tSpark Timing: The control module or distributor ensures that the spark occurs at the right time for each cylinder.\n3.\tSpark Distribution: The distributor or control module sends the high-voltage spark to the correct spark plug.\n4.\tIgnition: The spark plugs ignite the air-fuel mixture, causing combustion and powering the engine.\n",
+          "images": [
+            "https://firebasestorage.googleapis.com/v0/b/automotive-fe630.appspot.com/o/images%2Ff136ddfb-deb1-4f6e-9792-d2588048c0b9_Picture1.png?alt=media&token=b07dc35b-feda-4174-98c8-256b81acc859",
+            "https://firebasestorage.googleapis.com/v0/b/automotive-fe630.appspot.com/o/images%2F099e2ed2-5a4d-4f7f-ac89-81c21a7ad112_Picture2.png?alt=media&token=71c5cbf4-8410-4fad-9f97-c158bac232d7"
+          ]
+        },
+        "vi": {
+          "name": "HỆ THỐNG ĐÁNH LỬA",
+          "content": "Hệ thống đánh lửa là một thành phần quan trọng trong động cơ đốt trong, chịu trách nhiệm đốt cháy hỗn hợp không khí-nhiên liệu để khởi động động cơ và duy trì hoạt động của nó. Có nhiều loại hệ thống đánh lửa, nhưng tất cả đều phục vụ mục đích cơ bản giống nhau. Dưới đây là tổng quan về các thành phần chính và chức năng của một hệ thống đánh lửa điển hình:",
+          "mainComponents": "1.\tẮc Quy: Cung cấp năng lượng điện cần thiết để khởi động động cơ.\n2.\tCuộn Đánh Lửa: Chuyển đổi nguồn điện áp thấp từ ắc quy thành điện áp cao.\n3.\tBộ Phân Phối Điện: Phân phối điện áp cao đến các bugi theo thứ tự đánh lửa chính xác.\n4.\tBugi: Đốt cháy hỗn hợp không khí-nhiên liệu trong các xi lanh của động cơ.\n5.\tCông Tắc Đánh Lửa: Cho phép người lái bật và tắt hệ thống đánh lửa.\n6.\tBộ Điều Khiển: Quản lý thời điểm và hoạt động của hệ thống đánh lửa.",
+          "functions": "1.\tBiến Đổi Điện Áp: Cuộn đánh lửa biến đổi điện áp thấp từ ắc quy thành điện áp cao cần thiết để tạo ra tia lửa.\n2.\tĐiều Chỉnh Thời Gian Đánh Lửa: Bộ điều khiển hoặc bộ phân phối đảm bảo rằng tia lửa xảy ra đúng thời điểm cho mỗi xi lanh.\n3.\tPhân Phối Tia Lửa: Bộ phân phối hoặc bộ điều khiển gửi tia lửa điện áp cao đến bugi đúng.\n4.\tĐánh Lửa: Các bugi đốt cháy hỗn hợp không khí-nhiên liệu, gây ra sự cháy và tạo năng lượng cho động cơ.",
+          "images": [
+            "https://firebasestorage.googleapis.com/v0/b/automotive-fe630.appspot.com/o/images%2Ff136ddfb-deb1-4f6e-9792-d2588048c0b9_Picture1.png?alt=media&token=b07dc35b-feda-4174-98c8-256b81acc859",
+            "https://firebasestorage.googleapis.com/v0/b/automotive-fe630.appspot.com/o/images%2F099e2ed2-5a4d-4f7f-ac89-81c21a7ad112_Picture2.png?alt=media&token=71c5cbf4-8410-4fad-9f97-c158bac232d7"
+          ]
+        }
+      },
+      "id": "80e5"
+    }
+  ],
+    [
+    {
+      "0": {
+        "id": "10bfa018-c88d-4f1b-b66c-5dbcf414da78",
+        "en": {
+          "name": "Ignition System ",
+          "content": "The ignition system is a crucial component in an internal combustion engine, responsible for igniting the air-fuel mixture to start the engine and keep it running. There are several types of ignition systems, but they all serve the same basic purpose. Below is an overview of the main components and functions of a typical ignition system:",
+          "mainComponents": "1.\tBattery: Provides the electrical power needed to start the engine.\n2.\tIgnition Coil: Converts the low-voltage power from the battery to high-voltage power.\n3.\tDistributor: Distributes the high-voltage power to the spark plugs in the correct firing order.\n4.\tSpark Plugs: Ignite the air-fuel mixture in the engine's cylinders.\n5.\tIgnition Switch: Allows the driver to turn the ignition system on and off.\n6.\tControl Module: Manages the timing and operation of the ignition system.\n",
+          "functions": "1.\tVoltage Transformation: The ignition coil transforms the low voltage from the battery to the high voltage required to create a spark.\n2.\tSpark Timing: The control module or distributor ensures that the spark occurs at the right time for each cylinder.\n3.\tSpark Distribution: The distributor or control module sends the high-voltage spark to the correct spark plug.\n4.\tIgnition: The spark plugs ignite the air-fuel mixture, causing combustion and powering the engine.\n",
+          "images": [
+            "https://firebasestorage.googleapis.com/v0/b/automotive-fe630.appspot.com/o/images%2Ff136ddfb-deb1-4f6e-9792-d2588048c0b9_Picture1.png?alt=media&token=b07dc35b-feda-4174-98c8-256b81acc859",
+            "https://firebasestorage.googleapis.com/v0/b/automotive-fe630.appspot.com/o/images%2F099e2ed2-5a4d-4f7f-ac89-81c21a7ad112_Picture2.png?alt=media&token=71c5cbf4-8410-4fad-9f97-c158bac232d7"
+          ]
+        },
+        "vi": {
+          "name": "HỆ THỐNG ĐÁNH LỬA",
+          "content": "Hệ thống đánh lửa là một thành phần quan trọng trong động cơ đốt trong, chịu trách nhiệm đốt cháy hỗn hợp không khí-nhiên liệu để khởi động động cơ và duy trì hoạt động của nó. Có nhiều loại hệ thống đánh lửa, nhưng tất cả đều phục vụ mục đích cơ bản giống nhau. Dưới đây là tổng quan về các thành phần chính và chức năng của một hệ thống đánh lửa điển hình:",
+          "mainComponents": "1.\tẮc Quy: Cung cấp năng lượng điện cần thiết để khởi động động cơ.\n2.\tCuộn Đánh Lửa: Chuyển đổi nguồn điện áp thấp từ ắc quy thành điện áp cao.\n3.\tBộ Phân Phối Điện: Phân phối điện áp cao đến các bugi theo thứ tự đánh lửa chính xác.\n4.\tBugi: Đốt cháy hỗn hợp không khí-nhiên liệu trong các xi lanh của động cơ.\n5.\tCông Tắc Đánh Lửa: Cho phép người lái bật và tắt hệ thống đánh lửa.\n6.\tBộ Điều Khiển: Quản lý thời điểm và hoạt động của hệ thống đánh lửa.",
+          "functions": "1.\tBiến Đổi Điện Áp: Cuộn đánh lửa biến đổi điện áp thấp từ ắc quy thành điện áp cao cần thiết để tạo ra tia lửa.\n2.\tĐiều Chỉnh Thời Gian Đánh Lửa: Bộ điều khiển hoặc bộ phân phối đảm bảo rằng tia lửa xảy ra đúng thời điểm cho mỗi xi lanh.\n3.\tPhân Phối Tia Lửa: Bộ phân phối hoặc bộ điều khiển gửi tia lửa điện áp cao đến bugi đúng.\n4.\tĐánh Lửa: Các bugi đốt cháy hỗn hợp không khí-nhiên liệu, gây ra sự cháy và tạo năng lượng cho động cơ.",
+          "images": [
+            "https://firebasestorage.googleapis.com/v0/b/automotive-fe630.appspot.com/o/images%2Ff136ddfb-deb1-4f6e-9792-d2588048c0b9_Picture1.png?alt=media&token=b07dc35b-feda-4174-98c8-256b81acc859",
+            "https://firebasestorage.googleapis.com/v0/b/automotive-fe630.appspot.com/o/images%2F099e2ed2-5a4d-4f7f-ac89-81c21a7ad112_Picture2.png?alt=media&token=71c5cbf4-8410-4fad-9f97-c158bac232d7"
+          ]
+        }
+      },
+      "id": "80e5"
+    }
+  ]
+  ]
 }
